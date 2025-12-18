@@ -1,0 +1,17 @@
+{
+  "name": "backend-prod_level",
+  "version": "1.0.0",
+  "description": "backend practice ",
+  "keywords": [
+    "javascript",
+    "backend",
+    "satiwk"
+  ],
+  "license": "ISC",
+  "author": "satwik",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
